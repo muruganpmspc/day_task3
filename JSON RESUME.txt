@@ -1,0 +1,70 @@
+var resume={
+"name":"Muruganantham.P",
+"mobile no":"0123456789",
+"mailid":muruganpm.spc@gmail.com,
+"experience":"Having 6+ years IT experience in the areas of desktop support and network engineer",
+"professionalexp1":"quess corp ltd(reliance digital platform and project service ltd coimbatore)",
+"period":"from jan 2020 to oct 2021",
+"desigination":"jio fiber engineer",
+"Roles and responsibilities":"home connecttion for a jio fiber installing ONT.Trouble shooting a network issues
+and install jio 4k android STB","Known as a Fiber cabling through a S2 to HTB (customer place)
+ And Splicing a cable, segregate & alter the power","Known as s Fiber cabling through a Joint-closure box to customer place and Splicing a
+cable, segregate & alter the power","Known a Power Splitter","Configure a Power beam, Lite beam & Air grid","Configure a Router like that (TP-Link,Tenda & Net gear etc)",
+"professionalexp2":"SRI MAHALAKSHMI DAIRY PVT LTD, BHAVANI CC – Anthiyur",
+"period2":"From Aug 2011 to Dec 2016 ",
+"desigination2":"Data Entry Operator & Assistant Manager",
+"Roles and responsibilities2":"Handling 60 – Thin Client Pc & 1 - PC Server","• Installation of windows 10 & 7 operating systems","Provide technical solutions and troubleshooting services on need basis","Install and upgrade hardware and software components","Install and configure Management requested Dairy Procurement ERP",
+"professionalexp3":"KENI TECHNOLOGIES, Coimbatore ",
+"period3":"From Feb 2017 to Nov - 2019",
+"desigination3":"Desktop support Engineer and Network Engg",
+"Roles and responsibilities3":"Installation of windows 8 ,7 ,vista , XP operating systems","Provide support to remote users","Provide technical solutions and troubleshooting services on need basis","Install and upgrade hardware and software components","Knowledge of Windows server 2008 R2 &windows
+Server 2003",
+"Network Engineer":"Configure routers and switches","Configuring and troubleshooting port related issue","Protocols are RIP, RIP Version2, OSPF,EIGRP","Knowledge of configuring ACL","Knowledge of Redistribution","Did a Network cabling work for Whole PSBB School in Coimbatore",
+"Educational1":"BE-CSE",
+"Institute1":"Anna University of Technology Coimbatore",
+"Year1":"2010",85421
+"Marks1":"7.33",
+"Educational2":"Diploma CSE",
+"Institute2":"Sakthi Polytechnic College Sakthi Nagar",
+"Year2":"2007",
+"Marks2":"69.25",
+"Educational3":"HSC",
+"Institute3":"Ideal Higher secondary School Anthiyur",
+"Year3":"2005",
+"Marks3":"56",
+"Educational4":"SSLC",
+"Institute4":"Ideal Higher secondary School Anthiyur",
+"Year4":"2003",
+"Marks4":"91",
+"Details1":"Fathers Name","MP",
+"Details2":"Sex","Male",
+"Details3":"D.O.B","xx/xx/xxxx",
+"Details4":"Marital Status","Single",
+"Details5":"Languages known","Tamil","English",
+"Details6":"Hobbies","Playing Shuttle","Reading Books",
+"Details7":"Address","000","XYZ po","ABC tk","EFG dt","012345",
+"Declaration":"I hereby declare that the above furnished information's true to my knowledge",
+"Date":"23/01/2023",
+"Place":"ABC",
+}
+
+
+FOR IN:
+
+var x=[{id:1,regno:1922,class:"Asec"},{id:2,regno:1923,class:"Bsec"},{id:3,regno:1924,class:"Csec"}]
+for (var y in x){
+console.log("id:"+x[y].id);
+console.log("regno:"+x[y].regno);
+console.log("class:"+x[y].class);
+}
+
+
+                         Difference between document and window objects: -
+
+ Document is if we need anything from browser it was displayed the content from the internet,
+If open tab shown content called document. window objects are document content shown 
+in the browser is called window objects.  Objects is a key value pairs then contains a html all 
+Tags/elements like that head, title, paragraph, body, div all tags, window contains a JavaScript all 
+JavaScript running in a window pages, document and window objects like a structure of parent and 
+Tree format, line by line execute the program, window access a window object only, document 
+Access only webpage browser…
